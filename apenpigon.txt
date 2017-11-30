@@ -1,0 +1,5 @@
+ape          5
+nape         6
+pipe         8
+pan          5
+go           3

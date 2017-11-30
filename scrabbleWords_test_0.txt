@@ -1,0 +1,12 @@
+dib     6
+dab     6
+bid     6
+bad     6
+db      5
+bi      4
+aid     4
+id      3
+ad      3
+d       2
+ai      2
+i       1
